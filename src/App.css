@@ -1,0 +1,13 @@
+.basket{
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  gap: 60px;
+}
+
+.products{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 80px;
+}
